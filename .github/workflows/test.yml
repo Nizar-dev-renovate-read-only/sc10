@@ -23,8 +23,8 @@ jobs:
         python3 -c "
 import requests
 
-access_token = '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'
-owner = 'wss-qa'
+access_token = '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'
+owner = 'Nizar-dev-renovate-read-only'
 repo = 'sc10'
 sha = '${{ github.sha }}'
 state = 'success'
